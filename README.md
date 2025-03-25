@@ -16,11 +16,7 @@ I'm a 20-year-old tech enthusiast passionate about software development and emer
 - NextJS
 - AI Technologies (Pinecone, Langchain)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArChildGit&show_icons=true&theme=radical&hide=stars,commits,prs,issues,contribs&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArChildGit&layout=compact&theme=radical&count_private=true" width="400" />
-</p>
+---
 
 ## 🏆 Projects
 
