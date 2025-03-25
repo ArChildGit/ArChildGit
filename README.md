@@ -9,7 +9,9 @@
 ## 🌟 About Me
 I'm a 20-year-old tech enthusiast passionate about software development and emerging technologies. Currently exploring the exciting worlds of web development, mobile apps, and artificial intelligence.
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 | Category           | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -17,6 +19,8 @@ I'm a 20-year-old tech enthusiast passionate about software development and emer
 | **Frameworks**     | <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />                                                                                                                                                                                                                         |
 | **Databases**      | <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />                                                                                                                                                                                                                                                                                                                               |
 | **DevOps & Tools** | <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />                                                                                                                                                                                                                               |
+
+<div>
 
 ## 🌱 Currently Learning
 - NextJS
