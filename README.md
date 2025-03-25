@@ -3,7 +3,6 @@
     <a>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Hi+there!+I'm+Gede+Danan;Student+Researcher;Flutter+Developer;Digital+Heritage+Enthusiast;Let's+connect+😊" alt="Typing animation" />
     </a>
-     <span style="display: inline-block; animation: wave 2s infinite; transform-origin: 70% 70%;">👋</span>
   </h1>
 </p>
 
