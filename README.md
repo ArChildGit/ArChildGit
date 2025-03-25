@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hi there! I'm Gede Danan Aria Satwika Punia
 
 ## 🌟 About Me
@@ -36,21 +38,18 @@ I'm a 20-year-old tech enthusiast passionate about software development and emer
 
 ## 🏆 Projects
 ### 🚀 Featured Projects
-1. [Project 1 Name](https://github.com/ArChildGit/project1)
-   - Brief description of the project
-   - Technologies used
-
-2. [Project 2 Name](https://github.com/ArChildGit/project2)
-   - Brief description of the project
-   - Technologies used
+1. [BADHI Mobile Apps](https://github.com/ArChildGit/project1)
+   - My latest activity as a research assistant on trying to document over 5000+ Balinesse temples into 3D archive partnering with BADHI (Bali Digital Heritage Initiative). I'm currently working on the mobile application to post vidio data onto the server. The application utilize JWT Auth and Block Cubit for the state management.
+   - Dart, Flutter
 
 ## 📬 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dananfokus@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danan-satwika/)
 
 ---
 
 ⭐ **Support my work by starring my repositories!**
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArChildGit.ArChildGit)
+
+</div>
