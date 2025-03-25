@@ -22,7 +22,7 @@ I'm a 20-year-old tech enthusiast passionate about software development and emer
 | **Databases**      | <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />                                                                                                                                                                                                                                                                                                                               |
 | **DevOps & Tools** | <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />                                                                                                                                                                                                                               |
 
-<div>
+</div>
 
 ---
 
