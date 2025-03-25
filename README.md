@@ -6,14 +6,6 @@
   </h1>
 </p>
 
-<style>
-  @keyframes wave {
-    0% { transform: rotate(0deg); }
-    50% { transform: rotate(20deg); }
-    100% { transform: rotate(0deg); }
-  }
-</style>
-
 ## 🌟 About Me
 I'm a 20-year-old tech enthusiast passionate about software development and emerging technologies. Currently exploring the exciting worlds of web development, mobile apps, and artificial intelligence.
 
