@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">
     <a>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Hi+there!+I'm+Gede+Danan;Web+Developer;Mobile+Apps+Developer;When+not+debugging+code;You+might+find+me+debugging+piano+scales+🎹;Let's+connect+😊" alt="Typing animation" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Hi+there!+I'm+Gede+Danan;Web+Developer;Mobile+Apps+Developer;When+not+debugging+code;Might+find+me+debugging+piano+scales+🎹;Let's+connect+😊" alt="Typing animation" />
     </a>
   </h1>
 </p>
