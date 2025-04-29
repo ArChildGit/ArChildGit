@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 About Me
-I'm a 20-year-old tech enthusiast passionate about software development and emerging technologies. Currently exploring the exciting worlds of web development, mobile apps, and artificial intelligence.
+I'm a 21-year-old tech enthusiast passionate about software development and emerging technologies. Currently exploring the exciting worlds of web development, mobile apps, and artificial intelligence.
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +28,7 @@ I'm a 20-year-old tech enthusiast passionate about software development and emer
 
 ## 🌱 Currently Learning
 - NextJS
-- AI Technologies (Pinecone, Langchain)
+- Generative AI Technologies (Pinecone, Langchain)
 
 ---
 
